@@ -7,3 +7,5 @@ white pixel in black screen). These image will be divided and compute in differe
 purpouse. 
 The image, will be processed in little pieces for speedup the work. When the job is finished, every grid computing machine
 send the work to the "server" that interpretate the final work.
+
+The code is quite good commentent in Italian native language
